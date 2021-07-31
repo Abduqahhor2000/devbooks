@@ -10,6 +10,7 @@ const persistConfig = {
   storage,
   whitelist: ['user']
 }
+//Abduqahhordan salom
 
 const rootReducer = combineReducers({
   user: userReducer,
